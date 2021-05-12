@@ -1,0 +1,26 @@
+cd Git Clonado
+  201  cd "Git Clonado"
+  202  cd /"Git Clonado"
+  203  cd /"- Git Clonado"
+  204  ls
+  205  cd fork
+  206  ls
+  207  git clone https://github.com/onepcc/python0015-git-dia-dos.git
+  208  cd python0015-git-dia-dos/
+  209  ls
+  210  code index.html
+  211  git status
+  212  git add .
+  213  git commit -m "Cambios por Juan"
+  214  git pull
+  215  git push
+  216  git status
+  217  git log
+
+
+cree un fork desde github
+hice una carpeta llamada FORK y dentro clone mi repositorio FORK
+dentro de la carpeta que trae el fork modifique el index.html
+hice un commit
+hice un pull request
+el profe lo reviso y me dijo que añadiera bootstrap
