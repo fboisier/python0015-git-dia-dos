@@ -1,0 +1,3 @@
+temporal/
+*.log
+secreto-clave-basedatos.py
